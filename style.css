@@ -1,0 +1,6 @@
+.flex {
+    display: flex;
+  }
+  .space-left {
+    margin-left: 10px;
+  }
